@@ -9,6 +9,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Major: significant functionality or breaking changes
 
 ## Pre-release requirements
+> **Release Roles:** Confirm release ownership and sign-off responsibilities using the [Role Clarity Checklist](octoacme-role-clarity-checklist.md#2-define-ownership-for-key-responsibilities) before deploying.
+
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
 - Release notes drafted
