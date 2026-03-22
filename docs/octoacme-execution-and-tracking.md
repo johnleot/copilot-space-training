@@ -29,6 +29,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
+> See [Role Clarity Checklist — Escalation Paths](octoacme-role-clarity-checklist.md#3-escalation-paths) for the full escalation matrix configured at project kickoff.
+
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
